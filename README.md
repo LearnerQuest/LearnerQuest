@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on **Machine Leaning**
 
-- 🌱 I’m currently learning **Data Structures and Algorithm using java**
+- 🌱 I’m currently learning **DSA using java & AIML**
 
-- 👯 I’m looking to collaborate on **Collaborate on data analytics and machine learning**
-
-- 💬 Ask me about **my experience**
+- 👯 I’m looking to collaborate on **Collaborate on artificial intelligence & machine learning**
 
 - 📫 How to reach me **aashigarg825@gmail.com**
 
