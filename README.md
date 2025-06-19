@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=learnerquest" alt="learnerquest" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Leaning**
+- 🔭 I’m currently working on **Artifical Intelligence & Machine Leaning**
 
 - 🌱 I’m currently learning **DSA using java & AIML**
 
