@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA using java & AIML**
 
-- 👯 I’m looking to collaborate on **Collaborate on artificial intelligence & machine learning**
+- 👯 I’m looking to **Collaborate on artificial intelligence & machine learning**
 
 - 📫 How to reach me **aashigarg825@gmail.com**
 
