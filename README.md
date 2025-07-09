@@ -10,8 +10,8 @@
 🚀 **Who am I?**
 
 - 📚 *Bachelor of Engineering – CS (AIML & IoT)* @ **GLA University, Mathura (2023–2027)**
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning, and building smart solutions**
-- 🔍 Currently exploring **Deep Learning, Computer Vision**, and **DSA in Java**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, NLP, and modern LLM pipelines**
+- 🔍 Currently exploring **Deep Learning, Computer Vision, NLP, LLMs, LangChain, RAG**, and **DSA in Java**
 - 🌟 Open to **opportunities, collaborations, and challenges** — let’s create something big!
 
 ---
@@ -20,8 +20,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Driven-blueviolet?style=flat-square&logo=ai" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Active-green?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-In%20Progress-orange?style=flat-square&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/ML-Active-green?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/NLP-Learning-orange?style=flat-square&logo=google" />
+  <img src="https://img.shields.io/badge/LLMs-Exploring-yellowgreen?style=flat-square&logo=openai" />
+  <img src="https://img.shields.io/badge/LangChain-RAG-blue?style=flat-square&logo=chainlink" />
 </p>
 
 ---
@@ -31,24 +33,30 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aashi-garg-bb8943279/)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle)](https://www.kaggle.com/aashigarg01)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://www.leetcode.com/aashi_garg)  
-📫 **aashigarg825@gmail.com**
+📫 **Email:** aashigarg825@gmail.com
 
 ---
 
 ### ⚙️ **Tech Stack**
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode)  
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-Exploring-FF4088?style=for-the-badge&logo=google"/>
+  <img src="https://img.shields.io/badge/LLMs-Active-8A2BE2?style=for-the-badge&logo=openai"/>
+  <img src="https://img.shields.io/badge/LangChain-Tools-00C7B7?style=for-the-badge&logo=chainlink"/>
+  <img src="https://img.shields.io/badge/RAG-Framework-FF6F61?style=for-the-badge&logo=databricks"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+</p>
 
 ---
 
