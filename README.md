@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aashi Garg</h1>
-<h3 align="center">🚀 Software Engineering Student | AI & ML Enthusiast | Open to Opportunities</h3>
+<h1 align="center">✨ Hey there! I’m Aashi Garg ✨</h1>
+<h3 align="center">👩‍💻 CS Student | AI & ML Explorer | Plot twist loading…</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=learnerquest&label=Profile%20views&color=0e75b6&style=flat" alt="learnerquest" />
@@ -7,17 +7,22 @@
 
 ---
 
-🎓 **Bachelor of Engineering — Computer Science (AIML & IoT)**  
-**GLA University, Mathura | 2023–2027**
+🚀 **Who am I?**
+
+- 📚 *Bachelor of Engineering – CS (AIML & IoT)* @ **GLA University, Mathura (2023–2027)**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, and building smart solutions**
+- 🔍 Currently exploring **Deep Learning, Computer Vision**, and **DSA in Java**
+- 🌟 Open to **opportunities, collaborations, and challenges** — let’s create something big!
 
 ---
 
-### 👩‍💻 **About Me**
+### 💫 **AI Vibes**
 
-- 🌟 Passionate about applying **Artificial Intelligence & Machine Learning** to solve real-world problems.
-- 🔍 Currently exploring **Deep Learning, Computer Vision**, and **DSA with Java**.
-- 🧠 Active learner, team player, and enthusiastic about continuous improvement.
-- 🤝 Open to **exciting opportunities** — including jobs, internships, and collaborations.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Driven-blueviolet?style=flat-square&logo=ai" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Active-green?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-In%20Progress-orange?style=flat-square&logo=tensorflow" />
+</p>
 
 ---
 
@@ -26,48 +31,47 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aashi-garg-bb8943279/)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle)](https://www.kaggle.com/aashigarg01)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://www.leetcode.com/aashi_garg)  
-📫 **Email:** aashigarg825@gmail.com
+📫 **aashigarg825@gmail.com**
 
 ---
 
-### 🛠️ **Skills & Tools**
+### ⚙️ **Tech Stack**
 
-**Languages:** Java, Python, JavaScript  
-**ML/AI:** NumPy, Pandas, OpenCV, Matplotlib, Seaborn, TensorFlow, Keras, Scikit-learn  
-**Data & Tools:** MySQL, MongoDB, Power BI, Excel  
-**Dev Tools:** Git, GitHub, Google Colab, Jupyter Notebook, VSCode, Eclipse
-
----
-
-### 🏆 **Certifications & Highlights**
-
-- 🧠 *Aarambh’25* Innovation Challenge – IIT Delhi  
-- 🧩 *Hackathon Finalist* – Smart India Hackathon & ISTE SRM NCR Hackathon  
-- 📊 *Analytics with Excel* – SkillCred  
-- 🎖️ *Code Wizard’s* – SRM Institute of Science & Technology  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode)  
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab)
 
 ---
 
 ### 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=learnerquest&show_icons=true&theme=transparent" alt="Aashi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=learnerquest&show_icons=true&theme=tokyonight" alt="Aashi's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=learnerquest&show_icons=true&layout=compact&theme=transparent" alt="Aashi's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=learnerquest&show_icons=true&layout=compact&theme=tokyonight" alt="Aashi's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnerquest&theme=transparent" alt="Aashi's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnerquest&theme=tokyonight" alt="Aashi's Streak Stats" />
 </p>
 
 ---
 
-### 🌟 **Let’s Collaborate**
+### 📌 **Quote I Live By**
 
-I'm eager to connect, learn, and contribute — whether it’s through a **job**, **PPO**, **internship**, or a **tech community initiative**. Let's build the future together! 🚀
+> *“Stay curious. Stay coding. Surprise them.”*
 
 ---
 
-⭐️ *“Code with curiosity. Learn with purpose. Build with impact.”* ⭐️
+**Thanks for stopping by! Let’s connect, build, and innovate together. 🚀**
