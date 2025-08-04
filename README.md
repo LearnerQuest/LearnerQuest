@@ -78,7 +78,7 @@
 
 ### 📌 **Quote I Live By**
 
-> *“Stay curious. Stay coding. Surprise them.”*
+> * “Just another coder? Wait for the AI twist.”*
 
 ---
 
